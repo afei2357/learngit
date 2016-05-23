@@ -7,3 +7,4 @@ Switched to a new branch 'dev'
 
 add merge
 下面我们实战一下--no-ff方式的git merge
+修改readme.txt文件，并提交一个新的commit：
