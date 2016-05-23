@@ -4,7 +4,3 @@ Git has a mutable index called stage.
 Git tracks changes of files..
 Creating a new branch is quick.git commit -m "branch test"
 Switched to a new branch 'dev'
-
-add merge
-下面我们实战一下--no-ff方式的git merge
-修改readme.txt文件，并提交一个新的commit：
