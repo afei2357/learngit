@@ -4,9 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files..
 Creating a new branch is quick.git commit -m "branch test"
 Switched to a new branch 'dev'
-
-Creating a new branch is quick AND simple.Creating a new branch is quick AND simple.Creating a new branch is quick AND simple.
-
-11111
-2222
-333
+修改readme.txt文件，并提交一个新的commit：
